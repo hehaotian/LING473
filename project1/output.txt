@@ -1,0 +1,1 @@
+/corpora/LDC/LDC99T42/RAW/parsed/prd/wsj/14/	4670	13221	7920	50	3	
