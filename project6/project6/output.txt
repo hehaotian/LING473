@@ -1,0 +1,5 @@
+Lady GaGa	0.00	Lady GaGa
+Joanne Stefani Germanotta (born March 20, 1986),	0.32	Stefani Joanne Angelina Germanotta (born March
+1.00	28, 1986), known by her stage name Lady Gaga,
+
+Edit distance is 0.3191489361702128
